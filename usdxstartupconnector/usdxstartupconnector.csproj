@@ -146,6 +146,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="default.html" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="img\bot.jpg" />
